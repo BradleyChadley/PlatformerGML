@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0b228437-635e-405f-bebd-1485e1273570",
+            "Value": {
+                "id": "8af1f0a2-bba2-4149-91b3-0cb7a8b589f1",
+                "resourcePath": "objects\\o_wall\\o_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17f772be-efde-44be-9d11-fff09d6ed83a",
             "Value": {
                 "id": "b0b515bc-9361-41a0-b863-896a19722314",
@@ -98,7 +106,7 @@
             "Key": "64de99e5-2273-4b31-8323-cf9833b68c5b",
             "Value": {
                 "id": "f8f38093-2a6e-4c91-8448-b0b2ef2fea72",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_1\\rm_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -108,6 +116,14 @@
                 "id": "24080be0-7dfa-4036-b670-0b13667bd322",
                 "resourcePath": "views\\740a5275-805a-46c0-92d5-0d0c0f087e97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "842bf3af-343d-4a3c-a99b-5048ffc78dcd",
+            "Value": {
+                "id": "9a5eb68f-dd10-459e-bd0f-48aac95971c9",
+                "resourcePath": "sprites\\s_player\\s_player.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +180,22 @@
                 "id": "4f55b803-b717-4f56-bd42-baa0fc9a55bd",
                 "resourcePath": "views\\ccf6075a-b1f9-436c-862f-2367f75ac9d4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "db410b3c-6af0-4e9b-988e-0121b964f4e1",
+            "Value": {
+                "id": "a9d7dc62-652c-47f8-a35e-56ef5b48b206",
+                "resourcePath": "sprites\\s_wall\\s_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df44f123-f85d-4ebb-be42-9736814d72cb",
+            "Value": {
+                "id": "6b049bd7-50a2-428c-8ac5-c9805d78952a",
+                "resourcePath": "objects\\o_player\\o_player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
